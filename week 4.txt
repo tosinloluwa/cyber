@@ -1,0 +1,7 @@
+GitHub
+
+1. Online repository  (storing codes)
+2. Versioning (commits or labelling)
+3. Online Profiling (showcase your achievement)
+4. Pipeline Automation (DevOps) - Development Operations (they setup the workflow or work environment for software developers to work)
+
